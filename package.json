@@ -1,5 +1,5 @@
 {
-  "name": "react-excel-workbook-2",
+  "name": "@eristoddle/react-excel-workbook",
   "version": "0.0.4",
   "description": "An downloadable excel workbook react component",
   "main": "lib/index.js",
